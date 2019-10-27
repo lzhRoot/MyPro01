@@ -1,1 +1,3 @@
-public static void main()
+public static void main(String[] args){
+		sout("你大爷的")
+}
